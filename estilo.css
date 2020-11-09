@@ -1,0 +1,24 @@
+
+
+ #Bomb { 
+
+transform: rotate(45deg);
+}
+
+#Cactilio{ 
+    transition: all 2s linear ;}
+
+    #Cactilio:hover{
+
+transform: rotate(360deg);   
+}
+
+
+
+#Tonberry{
+    cursor: pointer;
+    transition: all  7s;
+}
+
+#Tonberry:hover{
+    transform: translate(1400px)}
